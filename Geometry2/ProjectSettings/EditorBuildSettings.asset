@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: fbdb28ee945eb714bbee332935a98ccb
+  - enabled: 1
+    path: Assets/Scenes/Progruzka.unity
+    guid: 5f2717cb55a92bc459372f4e021d892d
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Authors.unity
+    guid: b2d93dac2e70a974bac6dc9a88b997b1
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: d96b58f2825186648b3a9c6367eefc02
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: fb7f6a11187752d45bc509e4ef818b75
+  m_configObjects: {}
